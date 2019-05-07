@@ -1,5 +1,4 @@
-<filelist id="buildfiles" dir="."
-    files="object/build.xml
+<filelist dir="." files="object/build.xml
       operators/build.xml
       control/build.xml
       initialization/build.xml
@@ -25,4 +24,5 @@
       frogbean/build.xml
       bangbean/build.xml
       swt/build.xml
-      "/>
+      "
+  id="buildfiles"/>
